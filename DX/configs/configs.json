@@ -1,8 +1,20 @@
 {
     "apps": [
-        "Instagram",
-        "Facebook",
-        "Youtube",
-        "Tiktok"
+        {
+            "name": "Instagram",
+            "faicon": "instagram"
+        },
+        {
+            "name": "Facebook",
+            "faicon": "facebook"
+        },
+        {
+            "name": "Youtube",
+            "faicon": "youtube"
+        },
+        {
+            "name": "Tiktok",
+            "faicon": "tiktok"
+        }
     ]
 }
