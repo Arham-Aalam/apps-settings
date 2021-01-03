@@ -2,19 +2,48 @@
     "apps": [
         {
             "name": "Instagram",
-            "faicon": "instagram"
+            "faicon": "instagram",
+            "download_options": [
+                {
+                    "title": "story"
+                },
+                {
+                    "title": "post"
+                }
+            ]
         },
         {
             "name": "Facebook",
-            "faicon": "facebook"
+            "faicon": "facebook",
+            "download_options": [
+                {
+                    "title": "post"
+                },
+                {
+                    "title": "video"
+                }
+            ]
         },
         {
             "name": "Youtube",
-            "faicon": "youtube"
+            "faicon": "youtube",
+            "download_options": [
+                {
+                    "title": "story"
+                },
+                {
+                    "title": "video"
+                }
+            ]
         },
         {
             "name": "Tiktok",
-            "faicon": "tiktok"
+            "faicon": "tiktok",
+            "download_options": [
+                {
+                    "title": "video"
+                }
+            ]
         }
     ]
 }
