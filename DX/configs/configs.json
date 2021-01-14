@@ -14,10 +14,10 @@
             "faicon": "facebook",
             "download_options": [
                 {
-                    "title": "post"
+                    "title": "post link"
                 },
                 {
-                    "title": "video"
+                    "title": "video link"
                 }
             ]
         },
