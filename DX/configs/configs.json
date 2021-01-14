@@ -5,10 +5,7 @@
             "faicon": "instagram",
             "download_options": [
                 {
-                    "title": "story"
-                },
-                {
-                    "title": "post"
+                    "title": "Download"
                 }
             ]
         },
