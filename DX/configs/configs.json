@@ -31,8 +31,8 @@
             ]
         },
         {
-            "name": "Tiktok",
-            "faicon": "tiktok",
+            "name": "Twitter",
+            "faicon": "twitter",
             "download_options": [
                 {
                     "title": "video"
