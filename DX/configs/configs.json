@@ -26,9 +26,6 @@
             "faicon": "youtube",
             "download_options": [
                 {
-                    "title": "story"
-                },
-                {
                     "title": "video"
                 }
             ]
